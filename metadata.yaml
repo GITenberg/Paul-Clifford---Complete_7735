@@ -1,0 +1,36 @@
+_repo: Paul-Clifford---Complete_7735
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: "Paul Clifford is a novel published in 1830 by English author Edward\
+  \ Bulwer-Lytton. It tells the life of Paul Clifford, a man who leads a dual life\
+  \ as both a criminal and an upscale gentleman. The book was successful upon its\
+  \ release. It is the source of the famous opening phrase \"It was a dark and stormy\
+  \ night;...\"\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7735'
+  wikidata: Q7149872
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Paul Clifford — Complete
+url: http://www.gutenberg.org/ebooks/7735
+wikipedia:
+- https://en.wikipedia.org/wiki/Paul_Clifford
+- https://it.wikipedia.org/wiki/Paul_Clifford
