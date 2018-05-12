@@ -1,5 +1,8 @@
 _repo: Paul-Clifford---Complete_7735
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -16,6 +19,8 @@ description: "Paul Clifford is a novel published in 1830 by English author Edwar
   \ as both a criminal and an upscale gentleman. The book was successful upon its\
   \ release. It is the source of the famous opening phrase \"It was a dark and stormy\
   \ night;...\"\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7735#Paul-Clifford---Complete
 gutenberg_issued: '2004-11-26'
 gutenberg_type: Text
 identifiers:
